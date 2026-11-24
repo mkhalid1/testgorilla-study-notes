@@ -4,14 +4,14 @@
 
 Two plans: one for a week, one for when the invitation is already in your inbox. Both start the same way: **open your invitation email and note which tests are listed.** TestGorilla's invitation includes a breakdown of the assessment's contents and how long you will have. There is no point drilling spatial reasoning if your assessment has no spatial test.
 
-Then take the [15-minute diagnostic](diagnostic.md) for the sections you will face. Expect about 45 to 90 minutes a day on the 7-day plan.
+Then take the [5-minute diagnostic](diagnostic.md) for the sections you will face. Expect about 45 to 90 minutes a day on the 7-day plan.
 
 ## 7-day plan
 
 | Day | Focus | What to do |
 |---|---|---|
 | 1 | Baseline | Read [how a TestGorilla assessment works](test-overview.md) and [the candidate experience](candidate-experience.md). Take the [diagnostic](diagnostic.md). Note your two weakest sections among the tests on your invitation. |
-| 2 | Weakest section | Read its guide in full. Do all 12 items, untimed. For each miss, write one line: what you chose, what was right, and the rule you broke. |
+| 2 | Weakest section | Read its guide in full. Do all 3 items, untimed. For each miss, write one line: what you chose, what was right, and the rule you broke. |
 | 3 | Second weakest section | Same as day 2. Then redo yesterday's misses without looking at the answers. |
 | 4 | Remaining sections | Read the "How the questions look" and "Traps" parts of every other section on your invitation, and do their items timed. |
 | 5 | First timed run | Take a full timed practice test, such as the [free TestGorilla-style one on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla). Score it by section. Read the [timing guide](timing.md). |
@@ -37,7 +37,7 @@ For when the link has arrived and the deadline is close. Employers can set a dea
 | Block | Time | What to do |
 |---|---|---|
 | 1 | 10 min | Read your invitation. List the tests and the total time. |
-| 2 | 15 min | Take the [diagnostic](diagnostic.md), only the parts that match your tests. |
+| 2 | 5 min | Take the [diagnostic](diagnostic.md), only the parts that match your tests. |
 | 3 | 25 min | Read the "How the questions look" and "Traps" parts of each section guide on your list. |
 | 4 | 40 min | Do the practice items for your two weakest sections. Read every explanation, including the ones you got right. |
 | 5 | 20 min | Take a full timed practice test, such as the [free TestGorilla-style one on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla). |

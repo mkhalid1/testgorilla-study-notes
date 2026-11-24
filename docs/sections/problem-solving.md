@@ -50,16 +50,9 @@ Nine minutes is short, and TestGorilla does not publish the number of questions.
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from TestGorilla or any publisher.
+These 3 items are original, written for these notes. They are not taken from TestGorilla or any publisher.
 
-**Item 1.** Three one-hour meetings, Finance, Legal and HR, must fit into the 9:00, 10:00 and 11:00 slots, one per slot. Legal cannot be at 11:00. Finance must be before Legal. HR must be at 10:00 or 11:00. When is HR?
-
-- A. 9:00
-- B. 10:00
-- C. 11:00
-- D. It cannot be worked out
-
-**Item 2.** Support tickets are handled by these rules. Rule 1: outages come before everything else. Rule 2: then paying customers come before free users. Rule 3: within the same group, the oldest ticket goes first. Today's tickets:
+**Item 1.** Support tickets are handled by these rules. Rule 1: outages come before everything else. Rule 2: then paying customers come before free users. Rule 3: within the same group, the oldest ticket goes first. Today's tickets:
 
 | Ticket | Customer | Issue | Opened |
 |---|---|---|---|
@@ -75,132 +68,42 @@ Which ticket is handled second?
 - C. T3
 - D. T4
 
-**Item 3.** A van can carry 40 boxes. Five orders are waiting: 18, 15, 12, 9 and 7 boxes. Each order must go whole, not split. What is the largest number of orders the van can deliver in one trip?
-
-- A. 2
-- B. 3
-- C. 4
-- D. 5
-
-**Item 4.** Trains leave Hillside at 8:05, 8:20, 8:35 and 8:50. The journey takes 22 minutes, and the walk from the station to the office takes 10 minutes. You must be at the office by 9:00. What is the latest train you can take?
+**Item 2.** Trains leave Hillside at 8:05, 8:20, 8:35 and 8:50. The journey takes 22 minutes, and the walk from the station to the office takes 10 minutes. You must be at the office by 9:00. What is the latest train you can take?
 
 - A. 8:05
 - B. 8:35
 - C. 8:20
 - D. 8:50
 
-Items 5 and 6 use this project plan.
-
-| Task | Length | Can start |
-|---|---|---|
-| A | 3 days | At the start |
-| B | 2 days | After A is finished |
-| C | 4 days | At the start, alongside A and B |
-| D | 1 day | After both B and C are finished |
-
-**Item 5.** What is the shortest time to finish the whole project?
-
-- A. 5 days
-- B. 6 days
-- C. 7 days
-- D. 10 days
-
-**Item 6.** Task C is delayed and now takes 6 days instead of 4. Nothing else changes. What is the shortest time to finish the project now?
-
-- A. 6 days
-- B. 7 days
-- C. 8 days
-- D. 12 days
-
-Items 7 and 8 use this hiring rule: only applicants with a driving licence are considered. Eligible applicants are ranked by years of experience, most first. Ties are broken by test score, highest first.
-
-| Applicant | Licence | Years of experience | Test score |
-|---|---|---|---|
-| Ana | Yes | 5 | 82 |
-| Ben | No | 9 | 90 |
-| Chen | Yes | 5 | 88 |
-| Dina | Yes | 3 | 95 |
-
-**Item 7.** Who ranks first?
-
-- A. Ana
-- B. Ben
-- C. Chen
-- D. Dina
-
-**Item 8.** Who ranks last among the applicants who are considered?
-
-- A. Dina
-- B. Ana
-- C. Ben
-- D. Chen
-
-**Item 9.** A machine makes 250 parts an hour. On average, 2% of parts are faulty, and each faulty part takes 3 minutes to fix. How much fixing time does an 8-hour shift need?
-
-- A. 1 hour
-- B. 2 hours
-- C. 3 hours
-- D. 4 hours
-
-**Item 10.** Room A holds 8 people. Room B holds 12. Room C holds 20 and is the only room with a projector. A team of 9 does not need a projector and must book the smallest room that fits. Which room do they book?
-
-- A. Room A
-- B. Room C
-- C. Room B
-- D. Any room
-
-**Item 11.** Five deliveries, V, W, X, Y and Z, go out one per day, Monday to Friday. Z goes on Wednesday. X does not go on Monday. Y goes the day after X. W goes before X. On which day does Y go?
+**Item 3.** Five deliveries, V, W, X, Y and Z, go out one per day, Monday to Friday. Z goes on Wednesday. X does not go on Monday. Y goes the day after X. W goes before X. On which day does Y go?
 
 - A. Tuesday
 - B. Thursday
 - C. Wednesday
 - D. Friday
 
-**Item 12.** An event needs at least 3 volunteers on Saturday and at least 2 on Sunday. Nobody can work both days. Ali and Bea signed up for Saturday only. Cy, Dee and Eve signed up for Sunday only. Fin can do either day. What is the smallest number of extra volunteers needed?
-
-- A. 0
-- B. 1
-- C. 2
-- D. 3
-
 <details>
-<summary>Answers and explanations, items 1 to 12</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
-**Item 1: C (11:00).** Legal cannot be at 11:00, and Finance must come before Legal, so Legal cannot be at 9:00 either. Legal is at 10:00, so Finance is at 9:00, leaving HR at 11:00. That also meets HR's rule.
+**Item 1: D (T4).** Rule 1 puts the outage, T3, first. Rule 2 puts paying customers next: T2 and T4. Rule 3 orders them by age: T4 opened at 9:10, before T2 at 9:20. So the order is T3, T4, T2, T1. *Why not C:* T3 is first, not second.
 
-**Item 2: D (T4).** Rule 1 puts the outage, T3, first. Rule 2 puts paying customers next: T2 and T4. Rule 3 orders them by age: T4 opened at 9:10, before T2 at 9:20. So the order is T3, T4, T2, T1. *Why not C:* T3 is first, not second.
+**Item 2: C (8:20).** The 8:20 arrives at 8:42, and the walk puts you at the office at 8:52. The 8:35 arrives at 8:57, and the walk makes it 9:07, which is late. *Why not B:* it forgets the walk.
 
-**Item 3: B (3).** To fit the most orders, start with the smallest: 7 + 9 + 12 = 28 boxes. Adding the next smallest, 15, makes 43, which is over 40. No set of four orders fits, because the four smallest already come to 43. So the answer is 3.
-
-**Item 4: C (8:20).** The 8:20 arrives at 8:42, and the walk puts you at the office at 8:52. The 8:35 arrives at 8:57, and the walk makes it 9:07, which is late. *Why not B:* it forgets the walk.
-
-**Item 5: B (6 days).** A then B takes 3 + 2 = 5 days. C runs at the same time and takes 4 days, so it is done before B. D can start after day 5 and takes 1 day, so the project ends after day 6. *Why not D:* 10 days adds every task as if none overlapped.
-
-**Item 6: B (7 days).** A and B still finish after day 5, but C now finishes after day 6. D has to wait for both, so it starts after day 6 and the project ends after day 7. A two-day delay to C costs only one day overall, because C had one day of slack.
-
-**Item 7: C (Chen).** Ben has no licence, so he is out. Ana and Chen both have 5 years, the most among the eligible applicants. The tie goes to test score: Chen's 88 beats Ana's 82. *Why not B:* Ben's experience does not matter without a licence.
-
-**Item 8: A (Dina).** The eligible order is Chen, Ana, Dina. Dina has the fewest years. Her high test score only matters in a tie on experience, and she is not tied with anyone.
-
-**Item 9: B (2 hours).** 250 × 8 = 2,000 parts. 2% of 2,000 is 40 faulty parts. 40 × 3 = 120 minutes, which is 2 hours.
-
-**Item 10: C (Room B).** Room A holds 8, too small for 9. Room B holds 12, which fits. Room C also fits but is bigger, and the team must use the smallest room that fits.
-
-**Item 11: D (Friday).** X cannot be Monday, and it cannot be Wednesday, because that is Z's day. If X were Tuesday, Y would be Wednesday, which is also taken. If X were Friday, Y would have no day left. So X is Thursday and Y is Friday. W and V fill Monday and Tuesday, but the question only asks about Y.
-
-**Item 12: A (0).** Put Fin on Saturday. Saturday then has Ali, Bea and Fin: 3. Sunday has Cy, Dee and Eve: 3, which is more than the 2 needed. Both days are covered with no extra people.
+**Item 3: D (Friday).** X cannot be Monday, and it cannot be Wednesday, because that is Z's day. If X were Tuesday, Y would be Wednesday, which is also taken. If X were Friday, Y would have no day left. So X is Thursday and Y is Friday. W and V fill Monday and Tuesday, but the question only asks about Y.
 
 </details>
 
+Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla).
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | D | B | C | B | B | C | A | B | C | D | A |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | D | C | D |
 
-- **11 to 12:** excellent. Your next gain is speed, so redo the set in 6 minutes.
-- **8 to 10:** check whether you missed a step in a chain (items 4, 5, 6) or misapplied a rule order (items 2, 7, 8). Write the rules down every time.
-- **7 or fewer:** slow down and use the method step by step on paper. These puzzles reward a written list of constraints more than anything else.
+- **3:** excellent. Your next gain is speed, so redo the set in 1 minute 30 seconds.
+- **2:** check whether you missed a step in a chain (item 2) or misapplied a rule order (item 1). Write the rules down every time.
+- **0 or 1:** slow down and use the method step by step on paper. These puzzles reward a written list of constraints more than anything else.
 
 ## Next step
 

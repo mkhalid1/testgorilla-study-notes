@@ -50,7 +50,7 @@ TestGorilla does not publish the number of questions. As guidance, aim for about
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from TestGorilla or any publisher. In the grids, `X` is a filled square and `.` is empty. Rows are read top to bottom.
+These 3 items are original, written for these notes. They are not taken from TestGorilla or any publisher. In the grids, `X` is a filled square and `.` is empty. Rows are read top to bottom.
 
 **Item 1.** This grid is turned 90 degrees clockwise. What does it look like?
 
@@ -67,140 +67,42 @@ A        B        C        D
 . . .    X X .    . . .    . . X
 ```
 
-**Item 2.** An arrow points north-east. It is turned 135 degrees clockwise. Which way does it point now?
-
-- A. South-east
-- B. West
-- C. East
-- D. South
-
-**Item 3.** A robot faces north. It turns right, turns right again, turns left, and then turns around to face the opposite way. Which way does it face now?
-
-- A. North
-- B. East
-- C. West
-- D. South
-
-**Item 4.** A square sheet of paper is folded in half so that the left half lies on top of the right half. One hole is punched through the top-right corner of the folded paper. The sheet is then opened. Where are the holes?
-
-- A. One hole, in the top-right corner
-- B. Two holes, in the top-left and top-right corners
-- C. Two holes, in the top-right and bottom-right corners
-- D. Two holes, in the top-left and bottom-left corners
-
-**Item 5.** A square sheet is folded in half top to bottom, then folded in half again left to right, making a smaller square of four layers. One hole is punched through the centre of the folded square. The sheet is then opened. What do you see?
+**Item 2.** A square sheet is folded in half top to bottom, then folded in half again left to right, making a smaller square of four layers. One hole is punched through the centre of the folded square. The sheet is then opened. What do you see?
 
 - A. One hole in the centre of the sheet
 - B. Two holes, one in the centre of each half
 - C. Four holes, one in the centre of each quarter
 - D. Four holes, all along the middle fold line
 
-Items 6 and 7 use this flat net of a cube. Each letter is one face.
-
-```
-      [A]
- [B]  [C]  [D]
-      [E]
-      [F]
-```
-
-**Item 6.** When the net is folded into a cube, which face is opposite face C?
-
-- A. A
-- B. F
-- C. E
-- D. B
-
-**Item 7.** Which face is opposite face A?
-
-- A. C
-- B. F
-- C. D
-- D. E
-
-Items 8 and 9 use this cube: a 3 by 3 by 3 cube is painted on every outside face, then cut into 27 equal small cubes.
-
-**Item 8.** How many of the small cubes have exactly two painted faces?
-
-- A. 6
-- B. 8
-- C. 12
-- D. 24
-
-**Item 9.** How many of the small cubes have no painted faces?
-
-- A. 0
-- B. 1
-- C. 6
-- D. 8
-
-**Item 10.** A clock with no numbers shows 3:00. You see it in a mirror. What time does the reflection appear to show?
+**Item 3.** A clock with no numbers shows 3:00. You see it in a mirror. What time does the reflection appear to show?
 
 - A. 9:00
 - B. 3:00
 - C. 6:00
 - D. 12:15
 
-**Item 11.** This grid is turned 180 degrees. What does it look like?
-
-```
-X X .
-. . X
-. . .
-```
-
-```
-A        B        C        D
-. . .    . X X    . . .    . . .
-X . .    X . .    . . X    . . X
-. X X    . . .    X X .    . X X
-```
-
-**Item 12.** You walk 3 blocks north, then 4 blocks east, then 3 blocks south. How far are you from where you started, in a straight line, and in which direction?
-
-- A. 4 blocks east
-- B. 10 blocks east
-- C. 5 blocks north-east
-- D. 7 blocks east
-
 <details>
-<summary>Answers and explanations, items 1 to 12</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
 **Item 1: A.** Track the left column, which reads X, X, empty from top to bottom. A clockwise turn moves the left column to the top row, read from right to left: so the top row becomes empty, X, X. The centre square stays in the centre. That gives A. *Why not C:* C is the mirror image of A, flipped left to right.
 
-**Item 2: D (south).** Measure clockwise from north: north-east is 45 degrees. 45 + 135 = 180 degrees, which is south.
+**Item 2: C.** Two folds make four layers, one for each quarter of the sheet. A hole through the centre of the folded square goes through all four layers, landing in the centre of each quarter. Unfolded, the holes mirror each other across both fold lines.
 
-**Item 3: C (west).** North, turn right: east. Turn right: south. Turn left: east. Turn around: west.
-
-**Item 4: B.** After the fold, the top-right corner of the folded paper has two layers: the right half's own top-right corner, and the left half folded over on top. The left half's point there is its top-left corner. So when you open it, there are holes at the top-left and top-right corners.
-
-**Item 5: C.** Two folds make four layers, one for each quarter of the sheet. A hole through the centre of the folded square goes through all four layers, landing in the centre of each quarter. Unfolded, the holes mirror each other across both fold lines.
-
-**Item 6: B (F).** A, C, E and F form a straight column of four faces. When folded, that column wraps around the cube in a loop: each face is opposite the face two steps away. C and F are two steps apart, so they are opposite. *Why not A or E:* they share an edge with C, so they are neighbours.
-
-**Item 7: D (E).** In the same column, A and E are two steps apart, so they are opposite. That leaves B opposite D, the two side flaps.
-
-**Item 8: C (12).** Cubes with exactly two painted faces sit on the edges of the big cube, but not at the corners. A cube has 12 edges, and each edge of a 3 by 3 by 3 cube has one such small cube in its middle.
-
-**Item 9: B (1).** Only the single cube in the very centre touches no outside face. Check: 8 corners with three faces, 12 edges with two, 6 face centres with one, and 1 core: 8 + 12 + 6 + 1 = 27.
-
-**Item 10: A (9:00).** A mirror flips left and right. At 3:00 the hour hand points right, so in the mirror it points left, which is where it would be at 9:00. The minute hand points straight up in both. A quick rule: for an exact hour, the mirror time is 12 minus the real time.
-
-**Item 11: A.** A 180-degree turn sends each square to the opposite position: top-left goes to bottom-right, top row to bottom row, and so on. The top row X, X, empty becomes the bottom row empty, X, X. The square at the right of the middle row moves to the left of the middle row. That is A. *Why not C:* C is A flipped left to right, a reflection rather than a turn.
-
-**Item 12: A (4 blocks east).** The 3 blocks north and 3 blocks south cancel out. Only the 4 blocks east remain. *Why not B:* 10 is the total distance walked, not the distance from the start.
+**Item 3: A (9:00).** A mirror flips left and right. At 3:00 the hour hand points right, so in the mirror it points left, which is where it would be at 9:00. The minute hand points straight up in both. A quick rule: for an exact hour, the mirror time is 12 minus the real time.
 
 </details>
 
+Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla).
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | A | D | C | B | C | B | D | C | B | A | A | A |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | A | C | A |
 
-- **11 to 12:** your mental pictures are reliable. Practise with images too, since the real test uses them.
-- **8 to 10:** find the move that tripped you: rotation, folding or nets. Do five more of that kind with a sketch beside you.
-- **7 or fewer:** build the habit of tracking one corner. Draw each step on paper until you can see it without drawing.
+- **3:** your mental pictures are reliable. Practise with images too, since the real test uses them.
+- **2:** find the move that tripped you: rotation, folding or nets. Do five more of that kind with a sketch beside you.
+- **0 or 1:** build the habit of tracking one corner. Draw each step on paper until you can see it without drawing.
 
 ## Next step
 

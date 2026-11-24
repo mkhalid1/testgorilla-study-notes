@@ -1,14 +1,14 @@
 # TestGorilla Study Notes
 
-A free, complete study guide for TestGorilla hiring assessments: how an assessment is put together, what you will see on screen, a clear method for the six cognitive tests candidates meet most often, 90 original practice items with full explanations, how percentile scoring works, and study plans for a week or a weekend. TestGorilla is a platform, not a single test, so this guide starts by showing you how to work out what your own assessment contains. Facts about TestGorilla come only from TestGorilla's own pages and help centres, each one [cited](docs/sources.md).
+A free, complete study guide for TestGorilla hiring assessments: how an assessment is put together, what you will see on screen, a clear method for the six cognitive tests candidates meet most often, 24 original practice items with full explanations, how percentile scoring works, and study plans for a week or a weekend. TestGorilla is a platform, not a single test, so this guide starts by showing you how to work out what your own assessment contains. Facts about TestGorilla come only from TestGorilla's own pages and help centres, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
 1. **Check your invitation.** It lists the tests in your assessment and how long you will have. Read [how a TestGorilla assessment works](docs/test-overview.md) to make sense of it.
-2. **Find your weak sections.** Take the [15-minute diagnostic](docs/diagnostic.md), at least the parts that match your tests. It has three items for each test.
-3. **Fix the weakest section first.** Open its guide below, learn the method and the traps, then do its 12 practice items.
+2. **Find your weak sections.** Take the [5-minute diagnostic](docs/diagnostic.md), at least the parts that match your tests. It has one item for each test.
+3. **Fix the weakest section first.** Open its guide below, learn the method and the traps, then do its 3 practice items.
 4. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your deadline is close.
 
 ## Quick facts
@@ -42,7 +42,7 @@ Sources: TestGorilla's [candidate guide](https://candidates.testgorilla.com/hc/e
 | Spatial reasoning | 10 min | Intermediate | Rotate, fold and track shapes in your head | [Spatial](docs/sections/spatial-reasoning.md) |
 | Problem solving | 9 min | Intermediate | Build schedules and rank tasks by rules | [Problem solving](docs/sections/problem-solving.md) |
 
-Every test guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 12 original practice items with explanations, and a score table.
+Every test guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 3 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -66,7 +66,7 @@ Every test guide has the same parts: what it measures, how the questions look, a
   - [At the end](docs/candidate-experience.md#at-the-end)
   - [What the employer can see about your behaviour](docs/candidate-experience.md#what-the-employer-can-see-about-your-behaviour)
   - [Practise the flow, not just the questions](docs/candidate-experience.md#practise-the-flow-not-just-the-questions)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [5-minute diagnostic](docs/diagnostic.md)
   - [Part A: Numerical reasoning](docs/diagnostic.md#part-a-numerical-reasoning)
   - [Part B: Verbal reasoning](docs/diagnostic.md#part-b-verbal-reasoning)
   - [Part C: Critical thinking](docs/diagnostic.md#part-c-critical-thinking)
@@ -207,7 +207,7 @@ Every test guide has the same parts: what it measures, how the questions look, a
 
 ## About the practice items
 
-All 90 practice items (72 in the six test guides and 18 in the diagnostic) are original, written for these notes. None are taken from TestGorilla, from any employer's assessment or from any prep site. They follow the skills TestGorilla lists for each test, so the methods you learn here transfer to the real thing. The spatial items are drawn as text grids; the real spatial test uses images.
+All 24 practice items (18 in the six test guides and 6 in the diagnostic) are original, written for these notes. None are taken from TestGorilla, from any employer's assessment or from any prep site. They follow the skills TestGorilla lists for each test, so the methods you learn here transfer to the real thing. The spatial items are drawn as text grids; the real spatial test uses images.
 
 ## Contributing
 

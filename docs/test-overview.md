@@ -84,7 +84,7 @@ Four official rules matter more than any trick:
 
 ## Practise the real format
 
-A TestGorilla assessment feels like several short sprints back to back. To rehearse that, take the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), which mixes numerical, verbal, critical thinking and attention to detail questions under a timer, then use the [15-minute diagnostic](diagnostic.md) to find your weakest section.
+A TestGorilla assessment feels like several short sprints back to back. To rehearse that, take the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), which mixes numerical, verbal, critical thinking and attention to detail questions under a timer, then use the [5-minute diagnostic](diagnostic.md) to find your weakest section.
 
 ---
 

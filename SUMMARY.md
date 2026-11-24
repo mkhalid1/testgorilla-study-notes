@@ -6,7 +6,7 @@
 
 * [How a TestGorilla assessment works](docs/test-overview.md)
 * [The candidate experience](docs/candidate-experience.md)
-* [15-minute diagnostic](docs/diagnostic.md)
+* [5-minute diagnostic](docs/diagnostic.md)
 
 ## The six tests
 
