@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Numerical reasoning](numerical-reasoning.md) · Next: [Critical thinking](critical-thinking.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Numerical reasoning](numerical-reasoning.md) · Next: [Critical thinking](critical-thinking.md)
+<!-- /nav:top -->
 
 # Verbal reasoning
 
@@ -118,4 +120,6 @@ The real test mixes both parts under one clock. Practise switching between them 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Numerical reasoning](numerical-reasoning.md) | Next: [Critical thinking](critical-thinking.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Numerical reasoning](numerical-reasoning.md) | Next: [Critical thinking](critical-thinking.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

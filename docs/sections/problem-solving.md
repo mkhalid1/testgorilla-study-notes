@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Spatial reasoning](spatial-reasoning.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Spatial reasoning](spatial-reasoning.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Problem solving
 
@@ -111,4 +113,6 @@ Problem solving questions are short but tiring when stacked together. Build stam
 
 ---
 
-<!-- nav:bottom -->← Previous: [Spatial reasoning](spatial-reasoning.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Spatial reasoning](spatial-reasoning.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

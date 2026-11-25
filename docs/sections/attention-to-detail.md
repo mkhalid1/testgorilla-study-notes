@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Critical thinking](critical-thinking.md) · Next: [Spatial reasoning](spatial-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Critical thinking](critical-thinking.md) · Next: [Spatial reasoning](spatial-reasoning.md)
+<!-- /nav:top -->
 
 # Attention to detail
 
@@ -111,4 +113,6 @@ Attention to detail is the easiest section to improve with practice, because the
 
 ---
 
-<!-- nav:bottom -->← Previous: [Critical thinking](critical-thinking.md) | Next: [Spatial reasoning](spatial-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Critical thinking](critical-thinking.md) | Next: [Spatial reasoning](spatial-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

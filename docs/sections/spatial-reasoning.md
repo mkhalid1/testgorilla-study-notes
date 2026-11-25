@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Attention to detail](attention-to-detail.md) · Next: [Problem solving](problem-solving.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Attention to detail](attention-to-detail.md) · Next: [Problem solving](problem-solving.md)
+<!-- /nav:top -->
 
 # Spatial reasoning
 
@@ -110,4 +112,6 @@ The real spatial test uses pictures, not text grids. Once these feel easy, try i
 
 ---
 
-<!-- nav:bottom -->← Previous: [Attention to detail](attention-to-detail.md) | Next: [Problem solving](problem-solving.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Attention to detail](attention-to-detail.md) | Next: [Problem solving](problem-solving.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

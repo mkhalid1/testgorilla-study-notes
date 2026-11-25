@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The candidate experience](candidate-experience.md) · Next: [Numerical reasoning](sections/numerical-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The candidate experience](candidate-experience.md) · Next: [Numerical reasoning](sections/numerical-reasoning.md)
+<!-- /nav:top -->
 
 # 5-minute diagnostic
 
@@ -96,4 +98,6 @@ If your invitation shows only some of these tests, focus on those. Then pick a p
 
 ---
 
-<!-- nav:bottom -->← Previous: [The candidate experience](candidate-experience.md) | Next: [Numerical reasoning](sections/numerical-reasoning.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The candidate experience](candidate-experience.md) | Next: [Numerical reasoning](sections/numerical-reasoning.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

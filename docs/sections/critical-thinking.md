@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Verbal reasoning](verbal-reasoning.md) · Next: [Attention to detail](attention-to-detail.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Verbal reasoning](verbal-reasoning.md) · Next: [Attention to detail](attention-to-detail.md)
+<!-- /nav:top -->
 
 # Critical thinking
 
@@ -109,4 +111,6 @@ Critical thinking rewards calm under a short clock. Test your pace in the [free 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Verbal reasoning](verbal-reasoning.md) | Next: [Attention to detail](attention-to-detail.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Verbal reasoning](verbal-reasoning.md) | Next: [Attention to detail](attention-to-detail.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

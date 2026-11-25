@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [The candidate experience](candidate-experience.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [The candidate experience](candidate-experience.md)
+<!-- /nav:top -->
 
 # How a TestGorilla assessment works
 
@@ -88,4 +90,6 @@ A TestGorilla assessment feels like several short sprints back to back. To rehea
 
 ---
 
-<!-- nav:bottom -->← Previous: [Home](../README.md) | Next: [The candidate experience](candidate-experience.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Home](../README.md) | Next: [The candidate experience](candidate-experience.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

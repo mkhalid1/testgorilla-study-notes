@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Verbal reasoning](verbal-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Verbal reasoning](verbal-reasoning.md)
+<!-- /nav:top -->
 
 # Numerical reasoning
 
@@ -109,4 +111,6 @@ Numbers feel different with a live clock in the corner. Try a timed run that mix
 
 ---
 
-<!-- nav:bottom -->← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Verbal reasoning](verbal-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Verbal reasoning](verbal-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
