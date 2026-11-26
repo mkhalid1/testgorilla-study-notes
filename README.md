@@ -2,7 +2,7 @@
 
 A free, complete study guide for TestGorilla hiring assessments: how an assessment is put together, what you will see on screen, a clear method for the six cognitive tests candidates meet most often, 24 original practice items with full explanations, how percentile scoring works, and study plans for a week or a weekend. TestGorilla is a platform, not a single test, so this guide starts by showing you how to work out what your own assessment contains. Facts about TestGorilla come only from TestGorilla's own pages and help centres, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -202,7 +202,7 @@ Every test guide has the same parts: what it measures, how the questions look, a
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them, just as the real test will not let you go back.
 - **Read every explanation,** including for items you got right. Most explanations say why the nearest wrong answer is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write the rule you broke. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), teaches the pace.
+- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla), teaches the pace.
 - **Clone or fork it** if you want to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

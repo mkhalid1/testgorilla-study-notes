@@ -8,7 +8,7 @@ Six original items, one for each of the six cognitive tests in this guide, to sh
 
 These items are original, written for these notes. They are not taken from TestGorilla or any publisher's materials.
 
-If you already know the question types, skip this and take the [free timed TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla) instead. A full timed run gives a better picture of your pacing.
+If you already know the question types, skip this and take the [free timed TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla) instead. A full timed run gives a better picture of your pacing.
 
 ## Part A: Numerical reasoning
 

@@ -51,7 +51,7 @@ If your screen shows a question counter, use it. If it does not, just keep a ste
 
 ## Practise against the clock
 
-Untimed practice teaches the method. Timed practice teaches the pace. Do the practice items in each section guide with a timer, then take a full timed run such as the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), which has 24 questions across four cognitive areas in 18 minutes.
+Untimed practice teaches the method. Timed practice teaches the pace. Do the practice items in each section guide with a timer, then take a full timed run such as the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla), which has 24 questions across four cognitive areas in 18 minutes.
 
 ---
 

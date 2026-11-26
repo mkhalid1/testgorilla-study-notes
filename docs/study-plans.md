@@ -16,7 +16,7 @@ Then take the [5-minute diagnostic](diagnostic.md) for the sections you will fac
 | 2 | Weakest section | Read its guide in full. Do all 3 items, untimed. For each miss, write one line: what you chose, what was right, and the rule you broke. |
 | 3 | Second weakest section | Same as day 2. Then redo yesterday's misses without looking at the answers. |
 | 4 | Remaining sections | Read the "How the questions look" and "Traps" parts of every other section on your invitation, and do their items timed. |
-| 5 | First timed run | Take a full timed practice test, such as the [free TestGorilla-style one on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla). Score it by section. Read the [timing guide](timing.md). |
+| 5 | First timed run | Take a full timed practice test, such as the [free TestGorilla-style one on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla). Score it by section. Read the [timing guide](timing.md). |
 | 6 | Fix and rehearse | Go back to the traps list for whatever cost you most on day 5. If your assessment includes a video question, record a two-minute practice answer on your laptop camera and watch it back. |
 | 7 | Light review and setup | Read the [test-day checklist](test-day-checklist.md). Check your camera, microphone and browser. Do 10 mixed items, then stop. Sit the real assessment when you are fresh. |
 
@@ -42,7 +42,7 @@ For when the link has arrived and the deadline is close. Employers can set a dea
 | 2 | 5 min | Take the [diagnostic](diagnostic.md), only the parts that match your tests. |
 | 3 | 25 min | Read the "How the questions look" and "Traps" parts of each section guide on your list. |
 | 4 | 40 min | Do the practice items for your two weakest sections. Read every explanation, including the ones you got right. |
-| 5 | 20 min | Take a full timed practice test, such as the [free TestGorilla-style one on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla). |
+| 5 | 20 min | Take a full timed practice test, such as the [free TestGorilla-style one on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla). |
 
 ### Day 2: set up and sit it
 

@@ -93,7 +93,7 @@ These 3 items are original, written for these notes. They are not taken from Tes
 
 </details>
 
-Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla).
+Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla).
 
 ## Score yourself
 
@@ -107,7 +107,7 @@ Want more? The free timed TestGorilla-style practice test on PrepClubs has the f
 
 ## Next step
 
-Critical thinking rewards calm under a short clock. Test your pace in the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), which includes critical thinking questions with explanations.
+Critical thinking rewards calm under a short clock. Test your pace in the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla), which includes critical thinking questions with explanations.
 
 ---
 

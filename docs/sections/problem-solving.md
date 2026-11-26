@@ -95,7 +95,7 @@ Which ticket is handled second?
 
 </details>
 
-Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla).
+Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla).
 
 ## Score yourself
 
@@ -109,7 +109,7 @@ Want more? The free timed TestGorilla-style practice test on PrepClubs has the f
 
 ## Next step
 
-Problem solving questions are short but tiring when stacked together. Build stamina with a full timed run in the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), then come back and redo the item types that slowed you down.
+Problem solving questions are short but tiring when stacked together. Build stamina with a full timed run in the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla), then come back and redo the item types that slowed you down.
 
 ---
 

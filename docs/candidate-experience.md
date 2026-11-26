@@ -58,7 +58,7 @@ TestGorilla tells employers that none of this is proof of cheating, that a candi
 
 ## Practise the flow, not just the questions
 
-The questions are only half the experience. The other half is working fast under a visible timer with no going back. A timed run like the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla) helps you get used to that rhythm before the real assessment.
+The questions are only half the experience. The other half is working fast under a visible timer with no going back. A timed run like the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla) helps you get used to that rhythm before the real assessment.
 
 ---
 

@@ -102,7 +102,7 @@ For item 3, read the text and treat it as true.
 
 </details>
 
-Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla).
+Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla).
 
 ## Score yourself
 
@@ -116,7 +116,7 @@ Want more? The free timed TestGorilla-style practice test on PrepClubs has the f
 
 ## Next step
 
-The real test mixes both parts under one clock. Practise switching between them in the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla), then return here and redo any item type that slowed you down.
+The real test mixes both parts under one clock. Practise switching between them in the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla), then return here and redo any item type that slowed you down.
 
 ---
 

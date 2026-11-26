@@ -50,7 +50,7 @@ Print this or keep it open on your phone, then put the phone away before you sta
 
 ## Last practice before the real one
 
-If you have a spare 20 minutes the day before, take the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla) as a final timed warm-up, then stop studying for the day.
+If you have a spare 20 minutes the day before, take the [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla) as a final timed warm-up, then stop studying for the day.
 
 ---
 

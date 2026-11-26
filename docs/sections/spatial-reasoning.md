@@ -94,7 +94,7 @@ A        B        C        D
 
 </details>
 
-Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla).
+Want more? The free timed TestGorilla-style practice test on PrepClubs has the full 24 questions, scored by section: [TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla).
 
 ## Score yourself
 
@@ -108,7 +108,7 @@ Want more? The free timed TestGorilla-style practice test on PrepClubs has the f
 
 ## Next step
 
-The real spatial test uses pictures, not text grids. Once these feel easy, try image-based items and a full timed run. The [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=testgorilla) is a good next step for the other cognitive sections in the same sitting.
+The real spatial test uses pictures, not text grids. Once these feel easy, try image-based items and a full timed run. The [free TestGorilla-style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/testgorilla?utm_source=github&utm_medium=referral&utm_campaign=t7cs68&utm_content=testgorilla) is a good next step for the other cognitive sections in the same sitting.
 
 ---
 
